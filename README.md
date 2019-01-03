@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="400" src="./logo.svg" alt="logo of awesome-odroid-go repository">
+  <img width="150" src="./logo.svg" alt="logo of awesome-odroid-go repository">
   <br>
   <br>
 </p>
