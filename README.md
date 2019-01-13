@@ -36,6 +36,7 @@
 # Games
 - [Doom](https://github.com/mad-ady/doom-odroid-go)
 - [Duke Nukem 3D](https://github.com/jkirsons/Duke3D)
+- [Wolfenstein 3D](https://github.com/jkirsons/wolf4sdl)
 - [Tyrian](https://github.com/jkirsons/OpenTyrian)
 - [Pong](https://github.com/khuenqdev/goduino/tree/master/pong)
 
