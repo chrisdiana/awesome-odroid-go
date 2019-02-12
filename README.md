@@ -47,6 +47,7 @@
 # Extras
 - [ROM artwork](https://dn.odroid.com/ODROID_GO/romart-20180810.tgz)
 - [Bluetooth Keyboard](https://github.com/OtherCrashOverride/bt-keyboard-go)
+- [ESP-IDF Port of the Examples](https://github.com/dleslie/odroid-go-examples-for-esp-idf)
 
 # Resources
 
