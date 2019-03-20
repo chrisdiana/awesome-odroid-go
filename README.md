@@ -25,6 +25,7 @@
 
 # Emulators
 - [Go-Play](https://github.com/OtherCrashOverride/go-play) - Emulator Launcher that includes GameBoy, GameBoy Color, NES and SMS emulation.
+  * [Super Go-Play](https://github.com/mattkj/super-go-play) - Most updated fork, GB Color Palettes, better volume, etc.
 - [Frodo-Go](https://github.com/OtherCrashOverride/frodo-go) - Commodore 64 emulator.
 - [c64-go](https://github.com/Schuemi/c64-go) - Commodore 64 emulator
 - [Stella](https://github.com/OtherCrashOverride/stella-odroid-go) - Atari 2600 emulator.
@@ -35,6 +36,7 @@
 
 # Games
 - [Doom](https://github.com/mad-ady/doom-odroid-go)
+  * [Doom with sound](https://github.com/mad-ady/doom-ng-odroid-go/releases/)
 - [Duke Nukem 3D](https://github.com/jkirsons/Duke3D)
 - [Wolfenstein 3D](https://github.com/jkirsons/wolf4sdl)
 - [Tyrian](https://github.com/jkirsons/OpenTyrian)
@@ -43,6 +45,7 @@
 # Apps
 - [MicroPython](https://github.com/OtherCrashOverride/MicroPython_ESP32_psRAM_LoBo-odroid-go)
 - [M5Stack Library](https://yadi.sk/d/0wo7ympO3Zc6RT)
+- [Odroid-Go Updater](https://github.com/ripper121/odroidgoupdater) - updates firmwares over WiFi
 
 # Extras
 - [ROM artwork](https://dn.odroid.com/ODROID_GO/romart-20180810.tgz)
