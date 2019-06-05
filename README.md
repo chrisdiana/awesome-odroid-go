@@ -67,6 +67,14 @@
 
 ### Projects
 
+#### Hardware
+> A List of Odroid-Go / ESP32 Hardware Projects
+
+- [Gaboze Express ](https://github.com/gaboze-express/GabozeExpress/tree/Hardware)
+  An ESP32 Wrover based Game Boy Pocket from the Makers of [Gaboze Pocaio](https://www.tindie.com/products/thirtytwoteeth/gaboze-pocaio-round-2/) this is an Odroid Go with a 2.6" 320 x 240 display, and drop in form factor of the Nintendo Game Boy Pocket, currently in final testing stages, contributors welcome
+
+
+
 #### Arduino
 - [Getting Started with Arduino](https://wiki.odroid.com/odroid_go/arduino/01_arduino_setup)
 - [Hello World](https://wiki.odroid.com/odroid_go/arduino/02_hello_world)
