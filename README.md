@@ -94,6 +94,7 @@
 - [Build a Colorviewer](https://wiki.odroid.com/odroid_go/arduino/36_colorview)
 - [Build an IR Receiver](https://wiki.odroid.com/odroid_go/arduino/37_ir_receiver)
 - [Make Arduino Applications](https://wiki.odroid.com/odroid_go/arduino_app)
+- [2.6" 320 x 240 - ILI9342 Libraries](https://github.com/gaboze-express/Odroid-GO-ILI9342)
 
 #### MicroPython
 - [Getting started with MicroPython](https://wiki.odroid.com/odroid_go/micropython/01_micropython_setup)
