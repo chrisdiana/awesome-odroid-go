@@ -24,32 +24,42 @@
 ---
 
 # Emulators
-- [Go-Play](https://github.com/OtherCrashOverride/go-play) - Emulator Launcher that includes GameBoy, GameBoy Color, NES and SMS emulation.
-  * [Super Go-Play](https://github.com/mattkj/super-go-play) - Most updated fork, GB Color Palettes, better volume, etc.
+- [Go-Play](https://github.com/OtherCrashOverride/go-play/releases) - Emulator Launcher that includes GameBoy, GameBoy Color, NES and SMS emulation.
+  * [Super Go-Play](https://github.com/mattkj/super-go-play/releases) - Most updated fork, GB Color Palettes, better volume, etc.
 - [Frodo-Go](https://github.com/OtherCrashOverride/frodo-go) - Commodore 64 emulator.
 - [c64-go](https://github.com/Schuemi/c64-go) - Commodore 64 emulator
 - [Stella](https://github.com/OtherCrashOverride/stella-odroid-go) - Atari 2600 emulator.
 - [ProSystem](https://github.com/OtherCrashOverride/prosystem-odroid-go) - Atari 7800 emulator.
-- [Spectrum](https://bitbucket.org/DavidKnight247/odroid-go-spectrum-emulator) - Spectrum emulator.
+- [ZX Spectrum](https://bitbucket.org/DavidKnight247/odroid-go-spectrum-emulator) - ZX Spectrum emulator.
 - [fMSX-go](https://github.com/Schuemi/fMSX-go) - fMSX emulator.
 - [Open Source Emulator Launcher](https://github.com/IlyaMZP/emulator-launcher-odroid-go) - Open Source Emulator Launcher for Odroid Go to replace Springboard.
+- [NES Multiplayer](https://github.com/OtherCrashOverride/nes-mp-go/releases)
+- [SNES](https://forum.odroid.com/viewtopic.php?f=159&t=35143) - SNES emulator (very early test).
 
 # Games
-- [Doom](https://github.com/mad-ady/doom-odroid-go)
-  * [Doom with sound](https://github.com/mad-ady/doom-ng-odroid-go/releases/)
-- [Duke Nukem 3D](https://github.com/jkirsons/Duke3D)
-- [Wolfenstein 3D](https://github.com/jkirsons/wolf4sdl)
-- [Tyrian](https://github.com/jkirsons/OpenTyrian)
+- [Doom](https://github.com/mad-ady/doom-odroid-go/releases)
+- [Doom with sound](https://github.com/mad-ady/doom-ng-odroid-go/releases/)
+- [Duke Nukem 3D](https://github.com/jkirsons/Duke3D/tree/master/release) - [youtube](https://www.youtube.com/watch?v=S-DgYw0V4NQ&feature=youtu.be).
+- [Wolfenstein 3D & Spear of Destiny](https://github.com/jkirsons/wolf4sdl/tree/master/release)
+- [OpenTyrian](https://github.com/jkirsons/OpenTyrian/tree/master/release)
 - [Pong](https://github.com/khuenqdev/goduino/tree/master/pong)
+- [CloneKeen](https://github.com/jkirsons/CloneKeen/tree/master/release) - Commander Keen clone.
+- [FlappyBird](https://github.com/vbrusca/FlappyBirdCloneOdroidGo/releases) - Flappy bird clone.
+- [Game of Life](https://forum.odroid.com/download/file.php?id=8527)
 
 # Apps
+- [Firmware Updater](https://github.com/ripper121/odroidgoupdater) - Odroid Go FW Updater.
+- [Odroid-Go Updater](https://github.com/ripper121/odroidgoupdater) - updates firmwares over WiFi.
 - [MicroPython](https://github.com/OtherCrashOverride/MicroPython_ESP32_psRAM_LoBo-odroid-go)
 - [M5Stack Library](https://yadi.sk/d/0wo7ympO3Zc6RT)
-- [Odroid-Go Updater](https://github.com/ripper121/odroidgoupdater) - updates firmwares over WiFi
+- [WIFI Sniffer PCAP Wireshark](https://github.com/ripper121/odroidgowifisniffer/tree/master/bin)
+- [GPS Navi with Odroid Go and Neo-6M](https://github.com/ripper121/OdroidGoOSMGPSOffline/raw/master/OdroidGo/bin)
+- [Sphero BB-8 remote control](https://github.com/asirinelli/odroid-go-bb8)
+- [MP3 Player](https://github.com/ripper121/odroidgomp3/releases) - Internal and external DAC.
 
 # Extras
 - [ROM artwork](https://dn.odroid.com/ODROID_GO/romart-20180810.tgz)
-- [Bluetooth Keyboard](https://github.com/OtherCrashOverride/bt-keyboard-go)
+- [Bluetooth Keyboard](https://github.com/OtherCrashOverride/bt-keyboard-go/releases) - turns the go into a BT remote.
 - [ESP-IDF Port of the Examples](https://github.com/dleslie/odroid-go-examples-for-esp-idf)
 
 # Resources
@@ -60,7 +70,7 @@
 - [Github](https://github.com/hardkernel/ODROID-GO)
 - [Official Hardkernal Website](https://www.hardkernel.com)
 
-### Guides
+### Guides & Tools
 - [Assembly](https://wiki.odroid.com/odroid_go/go_assembling)
 - [Make a SD card for importing roms](https://wiki.odroid.com/odroid_go/make_sd_card)
 - [Firmware Update](https://wiki.odroid.com/odroid_go/firmware_update)
@@ -75,8 +85,6 @@
 
 - [Gaboze Express ](https://github.com/gaboze-express/GabozeExpress/tree/Hardware)
   An ESP32 Wrover based Game Boy Pocket from the Makers of [Gaboze Pocaio](https://www.tindie.com/products/thirtytwoteeth/gaboze-pocaio-round-2/) this is an Odroid Go with a 2.6" 320 x 240 display, and drop in form factor of the Nintendo Game Boy Pocket, currently in final testing stages, contributors welcome
-
-
 
 #### Arduino
 - [Getting Started with Arduino](https://wiki.odroid.com/odroid_go/arduino/01_arduino_setup)
