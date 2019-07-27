@@ -25,7 +25,7 @@
 
 # Emulators
 - [Go-Play](https://github.com/OtherCrashOverride/go-play/releases) - Emulator Launcher that includes GameBoy, GameBoy Color, NES and SMS emulation.
-  * [Super Go-Play](https://github.com/mattkj/super-go-play/releases) - Most updated fork, GB Color Palettes, better volume, etc.
+- [Super Go-Play](https://github.com/mattkj/super-go-play/releases) - Most updated fork, GB Color Palettes, better volume, etc.
 - [Frodo-Go](https://github.com/OtherCrashOverride/frodo-go) - Commodore 64 emulator.
 - [c64-go](https://github.com/Schuemi/c64-go) - Commodore 64 emulator
 - [Stella](https://github.com/OtherCrashOverride/stella-odroid-go) - Atari 2600 emulator.
@@ -83,6 +83,7 @@
 #### Hardware
 > A List of Odroid-Go / ESP32 Hardware Projects
 
+- [ESP32 Miscellany](https://github.com/sparkfun/ESP32_Miscellany)
 - [Gaboze Express ](https://github.com/gaboze-express/GabozeExpress/tree/Hardware)
   An ESP32 Wrover based Game Boy Pocket from the Makers of [Gaboze Pocaio](https://www.tindie.com/products/thirtytwoteeth/gaboze-pocaio-round-2/) this is an Odroid Go with a 2.6" 320 x 240 display, and drop in form factor of the Nintendo Game Boy Pocket, currently in final testing stages, contributors welcome
 
