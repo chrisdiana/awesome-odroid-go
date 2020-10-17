@@ -23,16 +23,38 @@
 
 ---
 
-# Emulators
+# Launchers
+
+## Retro ESP32 
+> Currently Supports 11 Emulators!!! 
+> This IS The *NEED TO HAVE* Launcher for your Odroid Go
+
+### [![Retro ESP32](https://raw.githubusercontent.com/retro-esp32/RetroESP32/master/Assets/RetroESP32-logo-readme.gif)](https://raw.githubusercontent.com/retro-esp32/RetroESP32/)
+
+* **[Firmware](https://github.com/retro-esp32/RetroESP32/releases)**
+* [Software](https://github.com/retro-esp32/RetroESP32/tree/Software)
+* [Hardware](https://github.com/retro-esp32/RetroESP32/tree/Hardware)
+
+Also includes **In Game Menu**
+|   Splash   |   Navigation   |   Management   |   Run   |
+| :--: | :--: | :--: | :--: |
+|  ![](https://raw.githubusercontent.com/retro-esp32/RetroESP32/master/Assets/launcher/splash.jpg)    | ![](https://raw.githubusercontent.com/retro-esp32/RetroESP32/master/Assets/launcher/games.jpg)    | ![](https://raw.githubusercontent.com/retro-esp32/RetroESP32/master/Assets/launcher/manager.jpg)    | ![](https://raw.githubusercontent.com/retro-esp32/RetroESP32/master/Assets/launcher/run.jpg)    |
+
+## Other Notable Launchers
+
 - [Go-Play](https://github.com/OtherCrashOverride/go-play/releases) - Emulator Launcher that includes GameBoy, GameBoy Color, NES and SMS emulation.
 - [Super Go-Play](https://github.com/mattkj/super-go-play/releases) - Most updated fork, GB Color Palettes, better volume, etc.
+- [Open Source Emulator Launcher](https://github.com/IlyaMZP/emulator-launcher-odroid-go) - Open Source Emulator Launcher for Odroid Go to replace Springboard.
+
+  
+# Emulators
+
 - [Frodo-Go](https://github.com/OtherCrashOverride/frodo-go) - Commodore 64 emulator.
 - [c64-go](https://github.com/Schuemi/c64-go) - Commodore 64 emulator
 - [Stella](https://github.com/OtherCrashOverride/stella-odroid-go) - Atari 2600 emulator.
 - [ProSystem](https://github.com/OtherCrashOverride/prosystem-odroid-go) - Atari 7800 emulator.
 - [ZX Spectrum](https://bitbucket.org/DavidKnight247/odroid-go-spectrum-emulator) - ZX Spectrum emulator.
 - [fMSX-go](https://github.com/Schuemi/fMSX-go) - fMSX emulator.
-- [Open Source Emulator Launcher](https://github.com/IlyaMZP/emulator-launcher-odroid-go) - Open Source Emulator Launcher for Odroid Go to replace Springboard.
 - [NES Multiplayer](https://github.com/OtherCrashOverride/nes-mp-go/releases)
 - [SNES](https://forum.odroid.com/viewtopic.php?f=159&t=35143) - SNES emulator (very early test).
 
