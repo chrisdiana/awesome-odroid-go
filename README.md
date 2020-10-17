@@ -67,9 +67,9 @@
 
 ### Official Resources
 - [Official Wiki](https://wiki.odroid.com/odroid_go/odroid_go)
-- [ODROID-GO by Hardkernal Forum](https://forum.odroid.com/viewforum.php?f=157)
+- [ODROID-GO by Hardkernel Forum](https://forum.odroid.com/viewforum.php?f=157)
 - [Github](https://github.com/hardkernel/ODROID-GO)
-- [Official Hardkernal Website](https://www.hardkernel.com)
+- [Official Hardkernel Website](https://www.hardkernel.com)
 
 ### Guides & Tools
 - [Assembly](https://wiki.odroid.com/odroid_go/go_assembling)
@@ -78,6 +78,7 @@
 - [Extracting esp32 image with esp32img tool](https://wiki.odroid.com/odroid_go/extract_esp32_img)
 - [Hardware tunning for silent the sound volume](https://wiki.odroid.com/odroid_go/silent_volume)
 - [Writing Applications](https://wiki.odroid.com/odroid_go/write_app)
+- [Odroid-Go-Multi-Firmware - orchestrate multiple skteches without reflashing](https://github.com/ducalex/odroid-go-multi-firmware)
 
 ### Projects
 
