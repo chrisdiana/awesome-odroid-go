@@ -14,16 +14,17 @@
 - [Apps](#apps)
 - [Extras](#extras)
 - [Resources](#resources)
-	- [Official Resources](#official-resources)
-	- [Guides](#guides)
-	- [Projects](#projects)
-		- [Arduino](#arduino)
-		- [MicroPython](#micropython)
-	- [Videos](#videos)
+  - [Official Resources](#official-resources)
+  - [Guides](#guides)
+  - [Projects](#projects)
+    - [Arduino](#arduino)
+    - [MicroPython](#micropython)
+  - [Videos](#videos)
 
 ---
 
 # Emulators
+
 - [Go-Play](https://github.com/OtherCrashOverride/go-play/releases) - Emulator Launcher that includes GameBoy, GameBoy Color, NES and SMS emulation.
 - [Super Go-Play](https://github.com/mattkj/super-go-play/releases) - Most updated fork, GB Color Palettes, better volume, etc.
 - [Frodo-Go](https://github.com/OtherCrashOverride/frodo-go) - Commodore 64 emulator.
@@ -37,6 +38,7 @@
 - [SNES](https://forum.odroid.com/viewtopic.php?f=159&t=35143) - SNES emulator (very early test).
 
 # Games
+
 - [Doom](https://github.com/mad-ady/doom-odroid-go/releases)
 - [Doom with sound](https://github.com/mad-ady/doom-ng-odroid-go/releases/)
 - [Duke Nukem 3D](https://github.com/jkirsons/Duke3D/tree/master/release) - [youtube](https://www.youtube.com/watch?v=S-DgYw0V4NQ&feature=youtu.be).
@@ -49,6 +51,7 @@
 - [Mulg-Go](https://github.com/johannesbehr/mulg-go/tree/master/release) - Port of Mulg ([levels](http://www.harbaum.org/till/palm/mulg/games.html)).
 
 # Apps
+
 - [Firmware Updater](https://github.com/ripper121/odroidgoupdater) - Odroid Go FW Updater.
 - [Odroid-Go Updater](https://github.com/ripper121/odroidgoupdater) - updates firmwares over WiFi.
 - [MicroPython](https://github.com/OtherCrashOverride/MicroPython_ESP32_psRAM_LoBo-odroid-go)
@@ -57,8 +60,10 @@
 - [GPS Navi with Odroid Go and Neo-6M](https://github.com/ripper121/OdroidGoOSMGPSOffline/raw/master/OdroidGo/bin)
 - [Sphero BB-8 remote control](https://github.com/asirinelli/odroid-go-bb8)
 - [MP3 Player](https://github.com/ripper121/odroidgomp3/releases) - Internal and external DAC.
+- [Bitcoin/Lightning Point of Sale](https://github.com/hpcodecraft/LNPoS/tree/main/lnPoSOdroidGo)
 
 # Extras
+
 - [ROM artwork](https://dn.odroid.com/ODROID_GO/romart-20180810.tgz)
 - [Bluetooth Keyboard](https://github.com/OtherCrashOverride/bt-keyboard-go/releases) - turns the go into a BT remote.
 - [ESP-IDF Port of the Examples](https://github.com/dleslie/odroid-go-examples-for-esp-idf)
@@ -66,12 +71,14 @@
 # Resources
 
 ### Official Resources
+
 - [Official Wiki](https://wiki.odroid.com/odroid_go/odroid_go)
 - [ODROID-GO by Hardkernel Forum](https://forum.odroid.com/viewforum.php?f=157)
 - [Github](https://github.com/hardkernel/ODROID-GO)
 - [Official Hardkernel Website](https://www.hardkernel.com)
 
 ### Guides & Tools
+
 - [Assembly](https://wiki.odroid.com/odroid_go/go_assembling)
 - [Make a SD card for importing roms](https://wiki.odroid.com/odroid_go/make_sd_card)
 - [Firmware Update](https://wiki.odroid.com/odroid_go/firmware_update)
@@ -83,9 +90,11 @@
 ### Projects
 
 #### Hardware
+
 - [ESP32 Miscellany](https://github.com/sparkfun/ESP32_Miscellany)
 
 #### Arduino
+
 - [Getting Started with Arduino](https://wiki.odroid.com/odroid_go/arduino/01_arduino_setup)
 - [Hello World](https://wiki.odroid.com/odroid_go/arduino/02_hello_world)
 - [Control Blue LED and PWM](https://wiki.odroid.com/odroid_go/arduino/03_blue_led_and_pwm)
@@ -107,6 +116,7 @@
 - [2.6" 320 x 240 - ILI9342 Libraries](https://github.com/gaboze-express/Odroid-GO-ILI9342)
 
 #### MicroPython
+
 - [Getting started with MicroPython](https://wiki.odroid.com/odroid_go/micropython/01_micropython_setup)
 - [Hello World](https://wiki.odroid.com/odroid_go/micropython/02_hello_world)
 - [Control Blue LED and PWM](https://wiki.odroid.com/odroid_go/micropython/03_blue_led_and_pwm)
@@ -115,4 +125,5 @@
 - [Using the speaker](https://wiki.odroid.com/odroid_go/micropython/06_speaker)
 
 #### Videos
+
 - [Headphones on ODROID-GO](https://www.youtube.com/watch?v=pp_DPHiUhcc)
